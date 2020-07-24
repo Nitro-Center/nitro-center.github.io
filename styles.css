@@ -1,0 +1,22 @@
+nav a {
+  color: #6C5CE6;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #10B3F5;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.row {
+	margin: 0px 0px;
+}
+
+.ban img {
+  height: 500px;
+  width: 1920px;
+}
